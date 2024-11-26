@@ -1,0 +1,16 @@
+npm create vite@latest
+
+npm i eslint vite-plugin-eslint eslint-config-react-app --save-dev
+
+npm i react-router-dom@6
+
+
+
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+
+https://github.com/tailwindlabs/prettier-plugin-tailwindcss
+npm install -D prettier prettier-plugin-tailwindcss
+
+npm i @reduxjs/toolkit react-redux
